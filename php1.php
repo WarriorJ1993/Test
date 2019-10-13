@@ -1,5 +1,0 @@
-<?php
-
-phpInfo();
-
-phpInfo2();
