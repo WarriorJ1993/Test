@@ -1,3 +1,5 @@
 <?php
 
 phpInfo();
+
+phpInfo2();
